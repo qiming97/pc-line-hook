@@ -25,4 +25,4 @@ pc line聊天工具 messenger hook message receive and send
 
 
 # 联系方式:
-telegram： @z13035341
+telegram： @john523100
